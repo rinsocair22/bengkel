@@ -1,4 +1,4 @@
-Sistem Informasi bengkel motor ATMA AUTO
+Sistem Informasi bengkel
 
 ADMIN
 USERNAME : admin
